@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**ItsRealSandesh/ItsRealSandesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sandesh Bhandari**. A Full-Stack Developer and Open-Source Enthusiast from Nepal 🇳🇵
 
-Here are some ideas to get you started:
+* 💻 Full-Stack Developer at [CodeWithSandesh](https://codewithsandesh.com)
+* 📍 Based in Kaski, Nepal
+* ⚙️ I use daily: `.python` `.javascript` `.html` `.css` `.android`
+* 🌍 Mostly active in the **Python & Open-Source Community**
+* 🚀 Building projects, learning new technologies, and exploring software development
+* 📫 Reach me at **[sandesh@codewithsandesh.com](mailto:sandesh@codewithsandesh.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💖 Support My Work
+
+If you like my projects, consider ⭐ starring my repositories and sharing them with others. Your support motivates me to keep building and learning!
